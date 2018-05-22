@@ -1,0 +1,18 @@
+body {
+width: 55em;
+margin-left: 18px;
+font-family: Arial, Helvetica, sans-serif;
+}
+#main-col {
+width: 40px;
+}
+.right-col {
+width: 20px;
+padding-left: 4em;
+}
+.right-col .well {
+color: red;
+}
+div.maincontent {
+width: 90%;
+}
